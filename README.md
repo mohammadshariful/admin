@@ -1,1 +1,1 @@
-# pixeletic
+# pixeletics
