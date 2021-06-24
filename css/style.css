@@ -1,0 +1,55 @@
+body{
+    font-family: 'Roboto', sans-serif;  
+    background-color: #333;
+    color: #fff;
+ }
+ #header-intro {
+     padding-top: 150px;
+     background-image: url(../image/service-bg.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+     min-height: 700px;
+     position: relative;
+ }
+ .header-inner{
+     padding-top: 150px;
+ }
+ .overlay-bg {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     min-height: 700px;
+     background: rgba(0, 0, 0, 0.8);
+ }
+ .fas{
+     color: #0d6efd;
+ }
+ .card{
+     opacity: 0.9;
+ }
+ #explore-secction{
+     background-color: #fff;
+ }
+ #create-secction{
+     background-color: #fff;
+ }
+ img.shariful{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.disc{
+    border-left: 1px solid black;
+}
+#about{
+    background-color:#0d6efd; ;
+}
+ 
+
+
+
+
+
+
