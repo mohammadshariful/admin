@@ -1,1 +1,1 @@
-# pixeletics
+# the-pixeletic
